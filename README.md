@@ -87,11 +87,11 @@
    ```
 6. **Install dependencies**:
    ```sh
-   cd sainibots.txt
+   ls
    ```
 7. **Setup environment file**:
    ```sh
-   pip install -r requirements sainibots.txt
+   pip install -r sainibots.txt
    ```
 
 8. **Edit configuration** (Choose one method):
